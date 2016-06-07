@@ -1,6 +1,8 @@
 # NES-Pong
 A simple Pong game for the Nintendo Entertainment System
 
+![Gameplay screenshot](http://i.imgur.com/DBoLpXX.png)
+
 # About
 This is a Pong game I created thanks to the Nerdy Nights tutorials over at NintendoAge: http://nintendoage.com/forum/messageview.cfm?catid=22&threadid=7155
 
